@@ -1,0 +1,2 @@
+rootProject.name='ontapkhachhang'
+include ':app'
